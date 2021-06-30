@@ -5,5 +5,6 @@
 #### Step 1. Windowing (framing)
   * Audio is sequential and time dependent.
   * Dividing the signal into very short sections that allow time-invariant assumptions.
+![image](https://user-images.githubusercontent.com/67357059/123906225-bb9b8300-d9ae-11eb-8b09-5d04c4f87537.png)
 
 
