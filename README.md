@@ -1,4 +1,6 @@
 # Transfer-learning-for-Music-Emotion-Prediction
+## Data
+ * 30 sec video with 6 classification label
 ## Music Preprocessing
 ### Mel-spectrogram (Input for 2D CNN)
   * Audio data is very high-dimensional and comes from a mixture of frequencies.
