@@ -25,6 +25,24 @@
  * Apply a Mel-filter bank to the spectrogram
  * The average amplitude values of the mel-frequency interval per unit time are input for 2D CNN.
 ![image](https://user-images.githubusercontent.com/67357059/123908006-c4da1f00-d9b1-11eb-9a54-5126d83642da.png)
+## Transfer Learning
+### What it is?
+ A transformation process of any learned knowledge from one or more source domain to a target domain
+### Advantage
+ * Reduction training time
+ * Solving data scarcity problem
+### How to do?
+ * Fine-Tuning(Solving data scarcity problem)
+### In my project
+ * I use transfer learning to overcome the lack of data
+ * A pre-trained 2D Music CNN trained with Million song dataset.
+ 
+![image](https://user-images.githubusercontent.com/67357059/123909358-dde3cf80-d9b3-11eb-97d9-a5d1d733d5e0.png)
+## Result
+![image](https://user-images.githubusercontent.com/67357059/123909424-ffdd5200-d9b3-11eb-92e4-8776a084fd20.png)
+![image](https://user-images.githubusercontent.com/67357059/123909469-0d92d780-d9b4-11eb-929e-7edd5d5823a5.png)
+## Reference
+
 
 
 
