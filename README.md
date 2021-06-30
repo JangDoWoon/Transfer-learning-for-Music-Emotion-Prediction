@@ -11,10 +11,10 @@
    * It translates the waveform from time domain to frequency domain.
    * It can represent the sum of different frequencies.
    * The problem is It disappears time domain.
-   * ![image](https://user-images.githubusercontent.com/67357059/123907642-39608e00-d9b1-11eb-82ac-b21234fead44.png)
+    ![image](https://user-images.githubusercontent.com/67357059/123907642-39608e00-d9b1-11eb-82ac-b21234fead44.png)
  * STFT is a method for saving the time domain.
  * Stacking each frame by taking Fourier transforms for each frame cut earlier.
- * ![image](https://user-images.githubusercontent.com/67357059/123907730-56955c80-d9b1-11eb-91eb-318f48fc7688.png)
+  ![image](https://user-images.githubusercontent.com/67357059/123907730-56955c80-d9b1-11eb-91eb-318f48fc7688.png)
 #### Step 3. Mel Filter Bank
  * Human hearing is less sensitive to frequencies above 1000 Hz.
  * Converting linearly up to 1000 Hz, and then multiplying it by making a Melscale filter.
