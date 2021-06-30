@@ -9,6 +9,6 @@
 #### Step 2. Short Time Fourier Transform
  * Fourier Transfrom
   * It translates the waveform from time domain to frequency domain.
-![image](https://user-images.githubusercontent.com/67357059/123906414-1b922980-d9af-11eb-9f30-ecce22cabffd.png)
+  * 
 
 
